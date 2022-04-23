@@ -1,6 +1,6 @@
 - 😄 Hi there 👋 My name is Katy!
-- 🔭 I'm currently working on how to build a website from scracth to eventually become a Front-End Developer!
-- 🌱 I have already learned the basics in HTML, CSS and git! Now onto some more lessons!
+- 🔭 I'm currently working on how all things associated with Front-End Development!
+- 🌱 I have already learned HTML, CSS and git! Now onto some more lessons!
 - 🔭 Still learning but hope to become a Front-End Developer in the near future!
 - 👯 I'm looking to build a website for anyone who isn't in a hurry to have one (at the lowest price available).
 - 📫 Reach me via my email: ksaldinger@gmail.com
