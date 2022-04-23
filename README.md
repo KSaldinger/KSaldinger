@@ -1,6 +1,6 @@
 - 😄 Hi there 👋 My name is Katy!
 - 🔭 I'm currently working on how all things associated with Front-End Development!
-- 🌱 I have already learned HTML, CSS and git! Now onto some more lessons!
+- 🌱 I have already learned HTML5, CSS, git, version control, command line and finally GitHub! Now onto some more lessons!
 - 🔭 Still learning but hope to become a Front-End Developer in the near future!
 - 👯 I'm looking to build a website for anyone who isn't in a hurry to have one (at the lowest price available).
 - 📫 Reach me via my email: ksaldinger@gmail.com
