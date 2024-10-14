@@ -1,10 +1,10 @@
 - 😄 Hi there 👋 My name is Katy!
 - 🔭 I'm currently working on how all things associated with Front-End Development!
-- 🌱 I have already learned HTML5, CSS, git, version control, command line and finally GitHub! Now onto some more lessons!
-- 🔭 Still learning but hope to become a Front-End Developer in the near future!
-- 👯 I'm looking to build a website for anyone who isn't in a hurry to have one (at the lowest price available).
+- 🌱 I have already learned HTML5, CSS, git, version control, command line, this wonderful place known as GitHub and finally Javascript! Now onto some more lessons!
+- 🔭 Still learning but hope to become a Front-End Developer in the VERY near future!
+- 👯 I'm looking to build a website for anyone who isn't in a hurry to have one (at a nice and happy low price).
 - 📫 Reach me via my email: ksaldinger@gmail.com
--  ⚡ Fun fact: I have the coolest dog who can catch a ball from anywhere, I think he used to be in the circus!
+-  ⚡ Fun fact: My kids convinced me that we need pet snails. They are persuasive; the snails are named Speedy and Zippy! I now am a fan of snails, who knew?!
 
 <!--
 **KSaldinger/KSaldinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
