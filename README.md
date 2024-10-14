@@ -4,7 +4,7 @@
 - 🔭 Still learning but hope to become a Front-End Developer in the VERY near future!
 - 👯 I'm looking to build a website for anyone who isn't in a hurry to have one (at a nice and happy low price).
 - 📫 Reach me via my email: ksaldinger@gmail.com
--  ⚡ Fun fact: My kids convinced me that we need pet snails. They are persuasive; the snails are named Speedy and Zippy! I now am a fan of snails, who knew?!
+-  ⚡ Fun fact: My kids convinced me that we need pet snails. They are persuasive; the snails are named Speedy and Zippy! I now am a fan of snails, who knew?!🐌
 
 <!--
 **KSaldinger/KSaldinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
